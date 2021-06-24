@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @2maas 
-- 🌱 I’m currently learning python and next year i will learn c#
+- 👋 Hi, I’m @2maas im from portugal and i am 16y (2005). 
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me tomasf492@gmail.com
 
 <!---
