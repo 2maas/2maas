@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @2maas im from portugal and i am 16y (2005). 
-- 🌱 I’m currently learning C#.
+- 👋 Hi, I’m @2maas im from portugal and i was born in 2005.
+- 🌱 I’m currently learning C# but i have experience with Python, HTML, CSS, JavaScript.
 - 📫 How to reach me tomasf492@gmail.com
 
 <!---
