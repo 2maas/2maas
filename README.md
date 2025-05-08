@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2maas im from portugal and i was born in 2005.
+- 👋 Hi, I’m @2maas im from portugal.
 - 🌱 I’m currently learning Flutter, among other things but i have experience with C, Python, HTML, CSS, JavaScript, C#, SQL, C.
 - 📫 How to reach me tomasfmarques0@gmail.com
 
